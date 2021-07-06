@@ -1,6 +1,5 @@
 <img align="left" alt="test-image" max-width="1400px" width="100%" height="auto" src="https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg" />
-<hr>
-<h1 align="center" style="margin-top:10px"> Hello my friend! I'm Volodymyr Balashov or just DevD</h1>
+## Hello my friend! I'm Volodymyr Balashov or just DevD
 
 <!--
 **DevilDoctor27/devildoctor27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
