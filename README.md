@@ -1,5 +1,4 @@
 ## Hello my fellow 👋
-
 ### My name is Volodymyr Balashov
 ##### Just DevD is fine!
 
