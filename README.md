@@ -1,6 +1,4 @@
-## Hello my fellow 👋
-### My name is Volodymyr Balashov
-##### Just DevD is fine!
+## Hello my friend! I'm Volodymyr Balashov or just DevD
 
 <!--
 **DevilDoctor27/devildoctor27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
