@@ -21,42 +21,42 @@
 ### What I can work with:
 
 <div>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none" 
 >
   <img src="./icons/html.svg" height="60" style="margin:10px"
   />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none" 
 >
   <img src="./icons/css.svg" height="60" style="margin:10px"
   />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none" 
 >
   <img src="./icons/js.svg" height="60" style="margin:10px"
   />
 </a>
-<a href="https://sass-lang.com/documentation" 
+<a href="https://sass-lang.com/documentation" style="text-decoration:none" 
 >
   <img src="./icons/sass.svg" height="55" style="margin:10px"
   />
 </a>
-<a href="https://tailwindcss.com/docs/installation" 
+<a href="https://tailwindcss.com/docs/installation" style="text-decoration:none" 
 >
   <img src="./icons/tailwind-css.svg" height="50" style="margin:10px"
   />
 </a>
-<a href="https://reactjs.org/docs/getting-started.html"
+<a href="https://reactjs.org/docs/getting-started.html" style="text-decoration:none"
  >
   <img src="./icons/react-js.svg" height="50" style="margin:10px"
    />
 </a>
-<a href="https://nextjs.org/docs/getting-started" 
+<a href="https://nextjs.org/docs/getting-started" style="text-decoration:none" 
 >
   <img src="./icons/nextjs.svg" height="50" style="margin:10px"
   />
 </a>
-<a href="https://nodejs.org/en/docs/" 
+<a href="https://nodejs.org/en/docs/" style="text-decoration:none" 
 >
   <img src="./icons/node-js.svg" height="50" style="margin:10px"
    />
