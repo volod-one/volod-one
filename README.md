@@ -21,42 +21,42 @@
 ### What I can work with:
 
 <div alight="left">
-<a style="margin: 10px" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none" 
+<a style="margin: 10px;display:block" href="https://developer.mozilla.org/en-US/docs/Web/HTML" 
 >
   <img src="./icons/html.svg" height="60"
   />
 </a>
-<a style="margin: 10px" href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none" 
+<a style="margin: 10px;display:block" href="https://developer.mozilla.org/en-US/docs/Web/CSS" 
 >
   <img src="./icons/css.svg" height="60"
   />
 </a>
-<a style="margin: 10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none" 
+<a style="margin: 10px;display:block" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
 >
   <img src="./icons/js.svg" height="60"
   />
 </a>
-<a style="margin: 10px" href="https://sass-lang.com/documentation" style="text-decoration:none" 
+<a style="margin: 10px;display:block" href="https://sass-lang.com/documentation" 
 >
   <img src="./icons/sass.svg" height="55"
   />
 </a>
-<a style="margin: 10px" href="https://tailwindcss.com/docs/installation" style="text-decoration:none" 
+<a style="margin: 10px;display:block" href="https://tailwindcss.com/docs/installation" 
 >
   <img src="./icons/tailwind-css.svg" height="50"
   />
 </a>
-<a style="margin: 10px" href="https://reactjs.org/docs/getting-started.html" style="text-decoration:none"
+<a style="margin: 10px;display:block" href="https://reactjs.org/docs/getting-started.html"
  >
   <img src="./icons/react-js.svg" height="50"
    />
 </a>
-<a style="margin: 10px" href="https://nextjs.org/docs/getting-started" style="text-decoration:none" 
+<a style="margin: 10px;display:block" href="https://nextjs.org/docs/getting-started" 
 >
   <img src="./icons/nextjs.svg" height="50"
   />
 </a>
-<a style="margin: 10px" href="https://nodejs.org/en/docs/" style="text-decoration:none" 
+<a style="margin: 10px;display:block" href="https://nodejs.org/en/docs/" 
 >
   <img src="./icons/node-js.svg" height="50"
    />
