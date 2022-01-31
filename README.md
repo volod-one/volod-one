@@ -20,29 +20,45 @@
 
 ### What I can work with:
 
-<div style="display:grid;gap:40px;align-items:center;grid-template-columns:repeat(4,1fr);padding-top:20px;justify-items:center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/html.svg"style="display:block;width:100%; height:auto" />
+<div>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" 
+>
+  <img src="./icons/html.svg" height="60" style="margin:10px"
+  />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/css.svg"style="display:block;width:100%; height:auto"  />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" 
+>
+  <img src="./icons/css.svg" height="60" style="margin:10px"
+  />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/js.svg"style="display:block;width:100%; height:auto"  />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
+>
+  <img src="./icons/js.svg" height="60" style="margin:10px"
+  />
 </a>
-<a href="https://sass-lang.com/documentation" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/sass.svg"style="display:block;width:100%; height:auto"  />
+<a href="https://sass-lang.com/documentation" 
+>
+  <img src="./icons/sass.svg" height="55" style="margin:10px"
+  />
 </a>
-<a href="https://tailwindcss.com/docs/installation" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/tailwind-css.svg"style="display:block;width:100%; height:auto"  />
+<a href="https://tailwindcss.com/docs/installation" 
+>
+  <img src="./icons/tailwind-css.svg" height="50" style="margin:10px"
+  />
 </a>
-<a href="https://reactjs.org/docs/getting-started.html" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/react-js.svg"style="display:block;width:100%; height:auto"  />
+<a href="https://reactjs.org/docs/getting-started.html"
+ >
+  <img src="./icons/react-js.svg" height="50" style="margin:10px"
+   />
 </a>
-<a href="https://nextjs.org/docs/getting-started" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/nextjs.svg"style="display:block;width:100%; height:auto"  />
+<a href="https://nextjs.org/docs/getting-started" 
+>
+  <img src="./icons/nextjs.svg" height="50" style="margin:10px"
+  />
 </a>
-<a href="https://nodejs.org/en/docs/" style="padding:10px;background-color:coral;border-radius:50%;aspect-ratio:1;width:100%;display:flex;alight-items:center;justify-content:center;flex-direction:column">
-  <img src="./icons/node-js.svg"style="display:block;width:100%; height:auto"  />
+<a href="https://nodejs.org/en/docs/" 
+>
+  <img src="./icons/node-js.svg" height="50" style="margin:10px"
+   />
 </a>
 </div>
