@@ -6,7 +6,6 @@
 {
   "firstName": "Volodymyr",
   "lastName": "Balashov",
-  "age": 27,
   "born": "Ukraine",
   "location": "Japan",
   "hobbies": ["code", "music", "video-games"]
