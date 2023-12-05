@@ -2,14 +2,20 @@
 
 ### About me:
 
-```javascript
-{
-  "firstName": "Volodymyr",
-  "lastName": "Balashov",
-  "born": "Ukraine",
-  "location": "Japan",
-  "hobbies": ["code", "music", "video-games"]
-}
+```kotlin
+data class Person(
+        val name: String = "Volodymyr",
+        val surname: String = "Balashov",
+        val birthDate: LocalDate = LocalDate.of(1995, 6, 9),
+        val location: String = "Kyiv, Ukraine",
+        val currentLocation: String = "Tsuruga, Japan",
+        val occupation: String = "Native Android Developer",
+        val hobbies: List<String> = listOf(
+                "Programming",
+                "Gaming",
+                "Music",
+        )
+)
 ```
 
 ### Some stats:
